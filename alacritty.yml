@@ -1,0 +1,10 @@
+import:
+  - ~/.config/alacritty/catppuccin/catppuccin-mocha.yml
+
+font:
+  normal:
+    family: RobotoMonoNerdFont 
+  size: 12.0
+window:
+  decorations: none
+  startup_mode: Maximized
