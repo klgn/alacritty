@@ -3,7 +3,8 @@ import:
 
 font:
   normal:
-    family: RobotoMonoNerdFont 
+    family: RobotoMonoNerdFont
+    style: medium 
   size: 12.0
 window:
   decorations: none
